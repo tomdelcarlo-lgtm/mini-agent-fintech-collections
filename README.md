@@ -1,5 +1,10 @@
 # Smart Collections / Risk Prioritizer (Mini-Agent #2)
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Demo-FF4B4B?logo=streamlit&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-MVP-blue)
+
 An MVP for fintech collections/risk operations to prioritize actions and maximize recovery with constrained operational capacity.
 
 ## Value proposition
