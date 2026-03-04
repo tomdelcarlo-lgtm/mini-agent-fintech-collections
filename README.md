@@ -7,6 +7,8 @@
 
 An MVP for fintech collections/risk operations to prioritize actions and maximize recovery with constrained operational capacity.
 
+Built with **OpenClaw**.
+
 ## Value proposition
 
 With the same ops team, this agent helps you:
@@ -72,6 +74,10 @@ streamlit run src/app.py
 4. Train and prioritize with your file:
    - `python src/train.py --input data/collections.csv`
    - `python src/prioritize.py --input data/collections.csv`
+
+## Demo
+
+A 3-minute walkthrough demo is available on request.
 
 ## 60-second demo script
 
