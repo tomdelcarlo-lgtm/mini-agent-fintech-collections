@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Generated artifacts
+data/*.joblib
+data/predictions.csv
+
+# Keep sample templates/versioned docs
+!data/input_template.csv
+!data/data_quality_report.md

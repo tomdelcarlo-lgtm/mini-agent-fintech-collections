@@ -1,0 +1,2 @@
+account_id,days_past_due,amount_due,paid_on_time_ratio_12m,missed_payments_12m,contact_channel,prev_contacted,prev_response,risk_segment,repaid_30d
+CUST-00001,32,450,0.72,2,whatsapp,1,1,mid,1
